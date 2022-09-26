@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Image from 'next/image';
-import styles from './layout.module.css';
-import utilStyles from '../styles/utils.module.css';
+import styles from './layout.module.scss';
+import utilStyles from '../styles/utils.module.scss';
 import Link from 'next/link';
 
 const name = 'Sean Swanson';
@@ -19,7 +19,7 @@ export default function Layout({ children, home }) {
                 <meta
                     property="og:image"
                     content={`${encodeURI(
-                        '/images/profile.png')}`}
+                        '/images/profile.jpg')}`}
                 />
                 <meta name="og:title" content={siteTitle} />
                 <meta name="twitter:card" content="summary_large_image" />
@@ -29,7 +29,7 @@ export default function Layout({ children, home }) {
                     <>
                         <Image
                             priority
-                            src="/images/profile.png"
+                            src="/images/profile.jpg"
                             className={utilStyles.borderCircle}
                             height={144}
                             width={144}
@@ -43,7 +43,7 @@ export default function Layout({ children, home }) {
                             <a>
                                 <Image
                                     priority
-                                    src="/images/profile.png"
+                                    src="/images/profile.jpg"
                                     className={utilStyles.borderCircle}
                                     height={108}
                                     width={108}
