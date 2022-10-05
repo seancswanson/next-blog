@@ -3,9 +3,8 @@ title: 'Modals, Mannequins & Metaphysics'
 date: '2018-11-23'
 ---
 
-[![Sean Swanson](https://miro.medium.com/fit/c/96/96/1*ob7inx_58OUCf9nFNeCqKQ.jpeg)
 
-](https://medium.com/@seancswan?source=post_page-----1b1629549421--------------------------------)[Sean Swanson](https://medium.com/@seancswan?source=post_page-----1b1629549421--------------------------------)Follow
+ > _This article is sourced from my [Medium](https://medium.com/@seancswan/modals-mannequins-metaphysics-pt-i-1b1629549421)._
 
 Nov 23, 2018 · 8 min read
 

@@ -1,3 +1,20 @@
+@font-face {
+    font-family: stretchPro;
+    src: url(../public/StretchPro.woff);
+}
+
+@font-face {
+    font-family: stretchProBasic;
+    src: url(../public/StretchPro-Basic.woff);
+}
+
+/* CSS HEX */
+--cadet: #5C6F77ff;
+--french-bistre: #856D58ff;
+--cyan-process: #48B5E9ff;
+--dark-liver: #4A4C56ff;
+--champagne-pink: #EEDBCBff;
+
 html,
 body {
     padding: 0;
@@ -8,8 +25,14 @@ body {
     font-size: 18px;
 }
 
+body {
+    background-color: #f7fffe;
+    background-image: url(https://www.transparenttextures.com/patterns/brilliant.png);
+}
+
 * {
     box-sizing: border-box;
+    margin-bottom: 35px;
 }
 
 a {
@@ -24,4 +47,68 @@ a:hover {
 img {
     max-width: 100%;
     display: block;
+}
+
+h1 {
+    font-family: stretchProBasic;
+    font-size: 24px;
+
+    letter-spacing: 1px;
+    background: black;
+    color: white;
+}
+
+div:has(blockquote) >h1 {
+        background: initial;
+            color: black;
+}
+
+h2 {
+    font-family: stretchProBasic;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+h3 {
+    font-family: stretchProBasic;
+    font-size: 20px;
+}
+
+blockquote>p {
+    border-left: 5px solid rgba(0, 0, 0, 0.05);
+    padding-left: 15px;
+}
+
+p:has(em) {
+    background: rgba(0, 0, 0, 0.05);
+    padding: 5px;
+    border-radius: 2px;
+}
+
+p:has(em)>em {
+    left-padding: 5px;
+}
+
+ul>li {
+    cursor: pointer;
+    background: #fff;
+    border: 2px solid #6e7d9b;
+    border-radius: 2px;
+    box-shadow: 5.9px 10px #282c34;
+    font-size: 18px;
+    line-height: 150%;
+    margin-bottom: 35px;
+    padding: 22px;
+}
+
+div:has(blockquote)> ul > li {
+    background: initial;
+    color: black;
+    list-style: none;
+    cursor: default;
+}
+
+div:has(blockquote)> ul > li > p:has(em) {
+    background: initial;
+
 }

@@ -3,9 +3,7 @@ title: 'On Walking'
 date: '2019-05-17'
 ---
 
-[![Sean Swanson](https://miro.medium.com/fit/c/96/96/1*ob7inx_58OUCf9nFNeCqKQ.jpeg)
-
-](https://medium.com/@seancswan?source=post_page-----b0f5c70e1f2--------------------------------)[Sean Swanson](https://medium.com/@seancswan?source=post_page-----b0f5c70e1f2--------------------------------)Follow
+ > _This article is sourced from my [Medium](https://medium.com/@seancswan/on-walking-b0f5c70e1f2)._
 
 May 17, 2019 · 8 min read
 

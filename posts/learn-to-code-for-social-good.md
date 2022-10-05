@@ -3,16 +3,13 @@ title: 'Learn to code for social good: My philosophy as an artist & dev'
 date: '2022-05-27'
 ---
 
-[![Sean Swanson](https://miro.medium.com/fit/c/96/96/1*ob7inx_58OUCf9nFNeCqKQ.jpeg)
 
-](https://medium.com/@seancswan?source=post_page-----f08e3562b36d--------------------------------)[Sean Swanson](https://medium.com/@seancswan?source=post_page-----f08e3562b36d--------------------------------)[Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2F6c424df58428&operation=register&redirect=https%3A%2F%2Flearningdaily.dev%2Flearn-to-code-for-social-good-my-philosophy-as-an-artist-dev-f08e3562b36d&user=Sean+Swanson&userId=6c424df58428&source=post_page-6c424df58428----f08e3562b36d---------------------follow_byline-----------)
+ > _This article is from a collaboration with [learningdaily.dev](https://learningdaily.dev/learn-to-code-for-social-good-my-philosophy-as-an-artist-dev-f08e3562b36d)._
 
 May 27, 2022 · 11 min read
 
 Learn to code for social good: My philosophy as an artist & dev
 ===============================================================
-
-![](https://miro.medium.com/max/1400/1*OUD-OyIYKkKR_PnXnDQymw.png)
 
 > [_Sean Swanson_](https://www.linkedin.com/in/seancswanson) _(he/him) is a Scrum Master and web developer of 4+ years._
 
