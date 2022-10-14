@@ -82,6 +82,14 @@ p:has(em)>em {
     left-padding: 5px;
 }
 
+p:has(img) {
+    text-align: center;
+}
+
+p:has(img) > img {
+    margin: 10px auto;
+}
+
 ul>li {
     cursor: pointer;
     background: #fff;
